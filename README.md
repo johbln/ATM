@@ -2,7 +2,7 @@
 ATM Project coded in C#
 
 ![Login](/images/login.png?raw=true "Login Panel")
-![ATM](/doc/atm1.png?raw=true "ATM")
+![ATM](/images/atm1.png?raw=true "ATM")
 
 PIN
 --------
