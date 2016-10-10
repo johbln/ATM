@@ -14,7 +14,7 @@ Features
 --------
 * Shutdown PC after entering the PIN 3 times wrong.
 * Choose composition of banknote output.
-* Funny GIF, if you want bank notes and your bank account is empty
+* Funny GIF, if you want banknotes and your bank account is empty
 
 Download
 --------
