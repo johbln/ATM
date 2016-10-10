@@ -1,12 +1,12 @@
 # ATM
 ATM Project coded in C#
 
-![Login](/images/login.png?raw=true "Login Panel")
-![ATM](/images/atm1.png?raw=true "ATM")
-
 PIN
 --------
-* The PIN is 1234
+* The PIN is #1234
+
+![Login](/images/login.png?raw=true "Login Panel")
+![ATM](/images/atm1.png?raw=true "ATM")
 
 Features
 --------
